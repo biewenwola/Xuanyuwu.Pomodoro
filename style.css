@@ -1,0 +1,13 @@
+.container{
+  margin: 0 auto;
+  width: 500px; 
+}
+.clearfix{
+  clear:left;
+}
+.piece{
+  float: left;
+  margin-bottom: 18px;
+  width: 25%;
+  background-color: #ddd;
+}
