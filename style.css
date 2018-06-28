@@ -1,11 +1,11 @@
-.container{
+#container{
   margin: 0 auto;
   width: 500px; 
 }
-.clearfix{
+#clearfix{
   clear:left;
 }
-.piece{
+#piece{
   float: left;
   margin-bottom: 10px;
   width: 25%;
