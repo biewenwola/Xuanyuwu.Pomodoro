@@ -133,12 +133,12 @@ table {
   margin-bottom: 5%; }
   .btn-container .material-icons:nth-child(odd) {
     font-size: 72px;
-		color: #fff; }
+    color: #fff; }
     .btn-container .material-icons:nth-child(odd):hover {
       cursor: pointer; }
   .btn-container .material-icons:nth-child(2) {
     font-size: 96px; 
-		color: #fff; }
+    color: #fff; }
     .btn-container .material-icons:nth-child(2):hover {
       cursor: pointer; }
 
