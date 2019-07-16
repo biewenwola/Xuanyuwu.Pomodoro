@@ -181,12 +181,14 @@ table {
 	margin-bottom: 5%;
 	.material-icons:nth-child(odd){
 		@include icon-size-72;
+		color: #fff;
 	&:hover{
 		cursor: pointer;
 	}
 	}
 	.material-icons:nth-child(2){
 		@include icon-size-96;
+		color: #fff;
 	&:hover{
 		cursor: pointer;
 		}
