@@ -137,7 +137,7 @@ table {
     .btn-container .material-icons:nth-child(odd):hover {
       cursor: pointer; }
   .btn-container .material-icons:nth-child(2) {
-    font-size: 96px; 
+    font-size: 96px;
     color: #fff; }
     .btn-container .material-icons:nth-child(2):hover {
       cursor: pointer; }
@@ -162,6 +162,7 @@ table {
     justify-content: center;
     align-items: center;
     border-radius: 30px;
+    font-weight: 600;
     margin-top: 7vh;
     margin-left: 10vw;
     background-color: #f4d035; }
@@ -231,6 +232,7 @@ table {
     color: rgba(255, 255, 255, 0.3);
     writing-mode: vertical-lr;
     align-self: flex-end;
-    padding-bottom: 20px; }
+    padding-bottom: 20px;
+    font-weight: 600; }
 
 /*---------------select-bar-------------*/
